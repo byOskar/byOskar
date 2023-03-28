@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Oskar 👋
+
+I currently work with Vue 3 and Laravel to develop powerful, scalable, serverless applications!
 
 <!--
 **byOskar/byOskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
